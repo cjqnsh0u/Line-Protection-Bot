@@ -6,3 +6,4 @@ How To Use:
 3.python3 run.py
 4.set up the permission.
 5.You're done the bot settings.
+Password For Add my line: mililawa to get.
